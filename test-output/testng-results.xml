@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36633" started-at="2017-08-30T06:51:12Z" finished-at="2017-08-30T06:51:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36633" started-at="2017-08-30T06:51:12Z" finished-at="2017-08-30T06:51:49Z">
+      <class name="day31.pomtestcases.POM_RegistrationTestCase">
+        <test-method status="PASS" signature="registration()[pri:0, instance:day31.pomtestcases.POM_RegistrationTestCase@1daadbf7]" name="registration" duration-ms="36573" started-at="2017-08-29T23:51:13Z" finished-at="2017-08-29T23:51:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+      </class> <!-- day31.pomtestcases.POM_RegistrationTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

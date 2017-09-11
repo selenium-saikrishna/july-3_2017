@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/gandh/Downloads/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/poi-examples-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/poi-scratchpad-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/cucumber-core-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/cucumber-java-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/cucumber-junit-1.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/cucumber-reporting-0.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/July_3_2017_Selenium/Selenium/lib/junit-4.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

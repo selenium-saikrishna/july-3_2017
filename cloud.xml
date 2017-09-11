@@ -1,0 +1,20 @@
+<suite name="Cloud Demo" parallel="tests">
+  <test name="On chrome and Windows10">
+   <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="day28.CloudTesting"/>  
+    </classes>
+  </test> 
+  <test name="On Opera and Linux">
+   <parameter name="browser" value="opera"/>
+    <classes>
+      <class name="day28.CloudTesting"/>  
+    </classes>
+  </test> 
+  <test name="On safari and Mac">
+   <parameter name="browser" value="safari"/>
+    <classes>
+      <class name="day28.CloudTesting"/>  
+    </classes>
+  </test> 
+</suite> 

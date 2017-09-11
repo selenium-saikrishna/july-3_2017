@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [OrangeHRM Test Suite]">
+  <test name="End to End Testing(failed)">
+    <classes>
+      <class name="day24.testuite.Login">
+        <methods>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- day24.testuite.Login -->
+      <class name="day24.testuite.DeleteEmployee">
+        <methods>
+          <include name="deleteTest"/>
+        </methods>
+      </class> <!-- day24.testuite.DeleteEmployee -->
+      <class name="day24.testuite.AddEmployee">
+        <methods>
+          <include name="addEmployeeTest"/>
+        </methods>
+      </class> <!-- day24.testuite.AddEmployee -->
+      <class name="day24.testuite.Logout">
+        <methods>
+          <include name="logoutTest"/>
+        </methods>
+      </class> <!-- day24.testuite.Logout -->
+    </classes>
+  </test> <!-- End to End Testing(failed) -->
+</suite> <!-- Failed suite [OrangeHRM Test Suite] -->

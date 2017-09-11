@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Selenium Grid Demo]" parallel="tests">
+  <parameter name="browser" value="ie"/>
+  <test name="On ie(failed)" parallel="tests">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="day27.DropdownOnGrid">
+        <methods>
+          <include name="dropdownTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- day27.DropdownOnGrid -->
+    </classes>
+  </test> <!-- On ie(failed) -->
+</suite> <!-- Failed suite [Selenium Grid Demo] -->
